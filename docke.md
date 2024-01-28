@@ -1,4 +1,4 @@
-# Securing docker with OWASP: Practical Tips and Tools
+# Securing docker with OWASP
 
 many of the security measures for Docker can be implemented using specific commands in the Docker command-line interface (CLI) or through Docker Compose.
 
